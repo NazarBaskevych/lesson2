@@ -1,2 +1,12 @@
-Nazar Baskevych, 18, 0, 10000$
-film, series etc.
+<xmlFormat>
+  <1-stTask>
+    <name>Nazar</name>
+    <age>18</age>
+    <pets>0</pets>
+    <ExpectedSalary>10000$</ExpectedSalary>
+  </1-stTask>
+  <2-ndTask>
+    <film>Shrek2</film> 
+    <series>GameOfThrones</series>
+  </2-ndTask>
+</xmlFormat>
