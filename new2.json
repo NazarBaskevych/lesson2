@@ -1,2 +1,12 @@
-Nazar Baskevych, 18, 0, 10000$.
-film, series etc.
+{ 
+  "1st Task":[
+    {"name":"Nazar"},
+     {"age": "18"}, 
+     {"pets":0},
+     {"ExpectedSalary":"10000$"}
+    ],
+  "2nd Task with json":[
+    {"film"="Shrek2"},
+    {"series"="Game oh Thrones"}
+  ]
+}
